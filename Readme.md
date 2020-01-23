@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vitaliy](https://up.htmlacademy.ru/htmlcss/27/user/1327587).
-* Наставник: `Антон Попов`.
+* Наставник: `Антон Попов` (https://htmlacademy.ru/profile/joker).
 
 ---
 
